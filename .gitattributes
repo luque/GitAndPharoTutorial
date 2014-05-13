@@ -1,3 +1,0 @@
-*.package/monticello.meta/version -diff
-*.package/*.class/methodProperties.json -diff
-*.package/*.class/properties.json -diff
