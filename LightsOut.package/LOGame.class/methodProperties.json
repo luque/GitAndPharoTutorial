@@ -2,6 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"cellsPerSide" : "ThierryGoubier 7/11/2014 09:52",
 		"initialize" : "ThierryGoubier 5/6/2014 14:26:18",
 		"newCellAt:at:" : "ThierryGoubier 5/9/2014 11:50" } }
